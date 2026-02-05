@@ -1,10 +1,4 @@
-package creationalPattern.builder;
-
-import creationalPattern.builder.components.SanitaryComponent;
-import creationalPattern.builder.components.Tile;
-import creationalPattern.builder.components.WoodenCompartment;
-
-import java.util.ArrayList;
+package creationalPattern.builder.houseExample.components;
 
 public class Architect {
     public void constructPlainHouse(Builder builder){

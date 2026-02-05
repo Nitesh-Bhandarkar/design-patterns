@@ -1,4 +1,4 @@
-package creationalPattern.builder;
+package creationalPattern.builder.houseExample.components;
 
 public class BuilderPatternTester {
     public static void main(String[] args) {

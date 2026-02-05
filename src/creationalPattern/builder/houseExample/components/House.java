@@ -1,8 +1,4 @@
-package creationalPattern.builder;
-
-import creationalPattern.builder.components.SanitaryComponent;
-import creationalPattern.builder.components.Tile;
-import creationalPattern.builder.components.WoodenCompartment;
+package creationalPattern.builder.houseExample.components;
 
 import java.util.Arrays;
 

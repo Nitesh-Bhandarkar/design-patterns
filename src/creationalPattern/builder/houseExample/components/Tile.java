@@ -1,4 +1,4 @@
-package creationalPattern.builder.components;
+package creationalPattern.builder.houseExample.components;
 
 public class Tile {
     private final int[] size;

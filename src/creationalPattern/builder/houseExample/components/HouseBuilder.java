@@ -1,8 +1,4 @@
-package creationalPattern.builder;
-
-import creationalPattern.builder.components.SanitaryComponent;
-import creationalPattern.builder.components.Tile;
-import creationalPattern.builder.components.WoodenCompartment;
+package creationalPattern.builder.houseExample.components;
 
 public class HouseBuilder implements Builder {
     private Tile tiles;
