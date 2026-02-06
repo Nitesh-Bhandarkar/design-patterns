@@ -1,4 +1,4 @@
-package structuralPattern.bridge;
+package structuralPattern.bridge.remote;
 
 public interface Remote {
     void turnOnDevice();

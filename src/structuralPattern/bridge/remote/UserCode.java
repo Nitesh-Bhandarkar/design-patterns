@@ -1,4 +1,4 @@
-package structuralPattern.bridge;
+package structuralPattern.bridge.remote;
 
 public class UserCode {
     public static void main(String[] args) {

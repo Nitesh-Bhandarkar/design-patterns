@@ -1,4 +1,4 @@
-package structuralPattern.bridge;
+package structuralPattern.bridge.remote;
 
 public class BasicRemote implements Remote{
     private final Device device;

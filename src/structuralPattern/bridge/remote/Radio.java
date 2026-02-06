@@ -1,6 +1,6 @@
-package structuralPattern.bridge;
+package structuralPattern.bridge.remote;
 
-public class TV implements Device{
+public class Radio implements Device{
     private boolean isTurnedOn;
     private int volumeLevel;
     private int currentChannel;
